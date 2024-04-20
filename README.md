@@ -55,7 +55,8 @@ Publish the website in the given URL.
             }
         }
     </script>
-    <div class="bg-dark mx-auto text-center text-white" style="width: 24rem;border-top-left-radius: 25px;border-top-right-radius: 25px;"><b>MEENU.S(212223230124)</b></div>
+    <div class="bg-dark mx-auto text-center text-white" style="width: 24rem;border-top-left-radius: 25px;border-top-right-radius: 25px;">
+    <b>MEENU.S(212223230124)</b></div>
     <div class="bg-dark row mx-auto text-center" style="width: 24rem;border-bottom-left-radius: 25px;border-bottom-right-radius: 25px " >
         <div class="col-12 my-4"><input type="text" name="" id="output" style="width: 100%;height: 50px;border-radius: 25px;"></div>
         <div class="m-3 col-2 btn rounded-4" style="background-color: lightskyblue;" onclick="fn(this)">(</div>
